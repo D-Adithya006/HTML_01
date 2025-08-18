@@ -19,10 +19,11 @@ h2 {
 }
 
 ul {
+    list-style-type:none
     text-align: center;
     color: aliceblue;
     font-style: oblique;
-    font-size: 20px
+    font-size: 20px;
 
 }
 body {
@@ -34,8 +35,8 @@ body {
 
 }
 body img {
-    border-radius: 8 px;
-    opacity:0.5;
+    border-radius: 8px;
+    
 }
 div.first {
     opacity:0.5;
@@ -43,6 +44,7 @@ div.first {
 div.second {
     opacity:1.0;
 }
+
 
 
 
