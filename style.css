@@ -34,5 +34,7 @@ body {
 }
 img {
     border-radius: 8 px;
+    opacity:0.5;
 }
+
 
