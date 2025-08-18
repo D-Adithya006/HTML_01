@@ -30,4 +30,8 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 
+
+}
+img {
+    border-radius: 8 px;
 }
