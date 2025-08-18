@@ -36,14 +36,11 @@ body {
 }
 body img {
     border-radius: 8px;
+    opacity:0.5;
     
 }
-div.first {
-    opacity:0.5;
-}
-div.second {
-    opacity:1.0;
-}
+
+
 
 
 
